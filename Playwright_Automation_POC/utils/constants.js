@@ -1,0 +1,1 @@
+module.exports={URL:'https://demoqa.com/automation-practice-form'};
